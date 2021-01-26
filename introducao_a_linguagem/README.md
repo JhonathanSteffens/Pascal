@@ -8,3 +8,6 @@ Neste projeto, estamos trabalhando com a Linguagem Pascal, uma linguagem de prog
 que recebeu este nome em homenagem ao matemático e físico Blaise Pascal. 
 Foi criada em 1970 pelo suíço Niklaus Wirth, tendo em mente encorajar o uso de código estruturado.
 
+Nestes primeiros programas o intuito é a apresentação da estrutura da linguagem bem como os primeiros comandos
+"write" e "writeln", comandos de saída de dados utilizados para mostrar dados na tela, podendo ser conteúdos de variáveis e/ou mensagens.
+
