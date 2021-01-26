@@ -1,0 +1,5 @@
+Program hello_world ;
+Begin
+  //O comando Writeln é utilizado para escrever mensagens 
+	writeln('Hello World');  
+End.
