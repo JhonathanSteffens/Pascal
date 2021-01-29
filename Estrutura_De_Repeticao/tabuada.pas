@@ -1,0 +1,4 @@
+Program tabuada ;
+Begin
+  
+End.
